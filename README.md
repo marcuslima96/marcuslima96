@@ -1,7 +1,6 @@
 # Marcus Lima
 
-Olá! Tenho 27 anos e sou um entusiasta da tecnologia . Com formação em Análise e Desenvolvimento de Sistemas, mergulhei de cabeça no mundo da codificação e venho explorando suas possibilidades desde então.
-
+Olá! Tenho 27 anos e sou um entusiasta da tecnologia, com formação em Análise e Desenvolvimento de Sistemas.
 ### Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcusvsl33/)
